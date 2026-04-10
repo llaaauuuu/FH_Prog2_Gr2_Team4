@@ -26,7 +26,6 @@ Maven uses the default system Java installation. If you have multiple Java insta
 </build>
 ```
 # Prog2 CSDC25BB Exercise 1
-
 ## Assignment
 The Framework for a Movie Database should be implemented The Code is based on Maven and must include automatic Unit Tests. A JavaFX Template is given but does not have to be used: https://github.com/leonardo1710/fhmdb-template
 
